@@ -10,4 +10,8 @@ Every lab/project has three  files :
 * Report indcates steps and question answering 
 * Packet tracer implementation
 
+A very helpful resource on implementing vlans , nativve lans , and trunks is these video series :
+https://www.youtube.com/watch?v=aBOzFa6ioLw&list=PLndqfxA_9SWFvDrh7e_5gmn7oNTcgPK23
+
+
 
