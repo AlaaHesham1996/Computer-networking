@@ -4,6 +4,7 @@ In this repo, I will be sharing my computer networking labs and projects impleme
 currently there are 
 * one project about vlans , it is the implementation of CCNA module 2 chapter 6  . 
 * one lab about data link layer particalarly ARP request  
+* one lab about static routing .As a note , lab requirement of static routing exists at page 74 of "static_routing_lab_explanation_requirements" document . Previous pages are just concepts and examples .
 
 Every lab/project has three  files :  
 * Requirement file 
